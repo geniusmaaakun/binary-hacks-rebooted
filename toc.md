@@ -10,7 +10,7 @@
         * まとめ
     * #2 アセンブリ入門
         * まとめ
-    * #3 Hello, World!再訪
+    * #3 Hello, World!再訪 ○
         * libcのシステムコールのラッパを使ったHello, World!
         * アセンブリ言語でのHello, World!
         * ELF HackのためのHello, World!
@@ -27,12 +27,12 @@
         * PT_GNU_STACK
         * PT_GNU_RELRO
         * まとめ
-    * #5 ld-linux.soの環境変数を利用する
+    * #5 ld-linux.soの環境変数を利用する ○
         * LD_PRELOAD
         * LD_DEBUG
         * LD_AUDIT
         * まとめ
-    * #6 共有ライブラリを検索するディレクトリ
+    * #6 共有ライブラリを検索するディレクトリ ○
         * 共有ライブラリの検索の実例
         * ダイナミックリンカが共有ライブラリを検索するディレクトリ
         * セキュリティ実行モード
@@ -73,16 +73,16 @@
         * soldの使い方
         * soldのしくみ
         * まとめ
-    * #15 glibcをHackする
+    * #15 glibcをHackする ○
         * glibcのソースコードを読む
         * glibcにパッチを当てる
         * まとめ
-    * #16 patchelfでELFバイナリのフィールドを書き換える
+    * #16 patchelfでELFバイナリのフィールドを書き換える ○
         * PT_INTERPの編集
         * DT_RUNPATHの編集
         * 参考文献
         * まとめ
-    * #17 LIEFを使ってELFバイナリを書き換える
+    * #17 LIEFを使ってELFバイナリを書き換える ○
         * シンボルのリネーム
         * 関数の差し替え
         * まとめ
